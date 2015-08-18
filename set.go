@@ -8,7 +8,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"code.google.com/p/gcfg/types"
+	"github.com/xvtom/gcfg/types"
 )
 
 type tag struct {
